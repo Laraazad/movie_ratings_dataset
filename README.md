@@ -1,4 +1,5 @@
 # Movie Ratings Dataset Analysis
+![Movie Ratings](https://i.pinimg.com/736x/ee/22/fe/ee22fea3b980c3e9fadefdec5e7c0bf6.jpg)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Laraazad/movie_ratings_dataset/blob/main/statistics.ipynb)
 
