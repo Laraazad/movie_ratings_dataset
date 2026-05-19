@@ -3,7 +3,7 @@
 This project explores and analyzes a movie ratings dataset using Python in Jupyter Notebook / Google Colab.
 
 ## Files Included
-- statistics_notebook.ipynb → Python notebook containing the analysis
+- statistics.ipynb → Python notebook containing the analysis
 - movie_ratings.csv → Dataset used for analysis
 
 ## Tools & Technologies
