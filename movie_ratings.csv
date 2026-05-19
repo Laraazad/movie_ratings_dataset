@@ -1,0 +1,501 @@
+User_ID,Movie_ID,Movie_Title,Genre,Rating,Age,Gender,Rating_Date
+1,1051,The Dark Knight,Action,1,25,Female,2024-03-06
+2,1092,Titanic,Sci-Fi,3,19,Female,2024-09-04
+3,1014,Avatar,Sci-Fi,3,23,Female,2024-09-10
+4,1071,Interstellar,Action,5,45,Male,2024-02-13
+5,1060,Inception,Comedy,5,46,Male,2024-04-06
+6,1020,Interstellar,Romance,1,43,Female,2024-02-11
+7,1082,The Dark Knight,Romance,1,42,Male,2024-08-14
+8,1086,Interstellar,Drama,4,29,Female,2024-09-18
+9,1074,Inception,Comedy,5,22,Female,2024-06-15
+10,1074,The Dark Knight,Sci-Fi,2,51,Female,2024-10-05
+11,1087,Interstellar,Action,3,54,Female,2024-03-29
+12,1099,The Dark Knight,Drama,1,32,Female,2024-06-26
+13,1023,Titanic,Romance,3,61,Male,2024-07-15
+14,1002,Titanic,Sci-Fi,3,53,Female,2024-11-02
+15,1021,Interstellar,Sci-Fi,4,32,Male,2024-09-23
+16,1052,The Dark Knight,Action,5,60,Male,2024-09-24
+17,1001,Inception,Romance,1,40,Female,2024-03-14
+18,1087,Interstellar,Comedy,3,23,Female,2024-01-08
+19,1029,Titanic,Sci-Fi,1,63,Male,2024-10-23
+20,1037,Titanic,Action,2,61,Male,2024-06-12
+21,1001,Interstellar,Comedy,4,60,Male,2024-03-25
+22,1063,The Dark Knight,Romance,2,62,Female,2024-03-12
+23,1059,Titanic,Sci-Fi,1,38,Male,2024-02-24
+24,1020,The Dark Knight,Comedy,1,40,Female,2024-02-16
+25,1032,Titanic,Comedy,5,60,Female,2024-08-25
+26,1075,Titanic,Comedy,3,33,Female,2024-04-13
+27,1057,Avatar,Sci-Fi,3,64,Male,2024-07-28
+28,1021,Titanic,Sci-Fi,2,32,Female,2024-02-11
+29,1088,Inception,Drama,4,42,Female,2024-11-11
+30,1048,Interstellar,Romance,3,53,Female,2024-09-24
+31,1090,Interstellar,Action,5,28,Female,2024-09-19
+32,1058,The Dark Knight,Comedy,2,32,Female,2024-12-01
+33,1041,Titanic,Drama,2,21,Male,2024-12-30
+34,1091,Inception,Action,5,38,Female,2024-09-15
+35,1059,The Dark Knight,Drama,4,30,Female,2024-10-09
+36,1079,Avatar,Sci-Fi,5,39,Male,2024-04-23
+37,1014,The Dark Knight,Comedy,4,36,Female,2024-12-28
+38,1061,The Dark Knight,Action,5,51,Male,2024-02-09
+39,1061,Titanic,Action,5,31,Female,2024-08-07
+40,1046,Avatar,Action,1,21,Male,2024-05-08
+41,1061,The Dark Knight,Action,2,63,Male,2024-01-08
+42,1050,Inception,Action,5,44,Female,2024-04-10
+43,1054,Inception,Drama,5,46,Female,2024-06-24
+44,1063,Interstellar,Comedy,3,64,Female,2024-04-16
+45,1002,Avatar,Sci-Fi,2,45,Male,2024-04-10
+46,1050,Avatar,Sci-Fi,3,52,Male,2024-09-16
+47,1006,Interstellar,Sci-Fi,2,25,Male,2024-09-02
+48,1020,The Dark Knight,Sci-Fi,3,33,Female,2024-10-01
+49,1072,Avatar,Drama,5,59,Male,2024-02-01
+50,1038,Inception,Romance,5,53,Male,2024-05-16
+51,1017,Inception,Comedy,1,47,Female,2024-01-12
+52,1003,Titanic,Action,3,35,Male,2024-10-28
+53,1088,Avatar,Romance,4,19,Male,2024-01-16
+54,1059,The Dark Knight,Sci-Fi,1,30,Female,2024-05-08
+55,1013,Interstellar,Romance,3,21,Male,2024-03-03
+56,1008,Interstellar,Comedy,3,43,Female,2024-04-18
+57,1089,The Dark Knight,Action,1,42,Female,2024-01-21
+58,1052,Titanic,Action,5,47,Female,2024-06-06
+59,1001,Interstellar,Comedy,3,28,Female,2024-09-25
+60,1083,Avatar,Comedy,5,24,Female,2024-06-10
+61,1091,Titanic,Sci-Fi,1,48,Male,2024-09-16
+62,1059,Avatar,Action,5,61,Male,2024-04-11
+63,1070,Inception,Romance,2,27,Female,2024-08-10
+64,1043,Titanic,Drama,4,56,Female,2024-02-28
+65,1007,Interstellar,Drama,3,30,Male,2024-09-03
+66,1046,Titanic,Comedy,4,48,Female,2024-05-07
+67,1034,Titanic,Sci-Fi,5,24,Female,2024-10-09
+68,1077,Titanic,Drama,3,59,Female,2024-11-20
+69,1080,Titanic,Action,5,59,Male,2024-01-25
+70,1035,Avatar,Comedy,2,53,Male,2024-05-10
+71,1049,Inception,Romance,1,37,Female,2024-12-18
+72,1003,The Dark Knight,Comedy,3,21,Female,2024-07-14
+73,1001,Titanic,Romance,2,24,Male,2024-10-07
+74,1005,Interstellar,Comedy,2,18,Male,2024-06-02
+75,1053,Titanic,Comedy,3,61,Female,2024-05-12
+76,1003,Interstellar,Comedy,5,62,Female,2024-08-14
+77,1053,Avatar,Romance,2,59,Male,2024-07-07
+78,1092,Interstellar,Romance,4,64,Male,2024-09-21
+79,1062,The Dark Knight,Comedy,2,30,Male,2024-05-13
+80,1017,Inception,Drama,5,39,Female,2024-07-29
+81,1089,Interstellar,Sci-Fi,5,38,Male,2024-02-29
+82,1043,Interstellar,Sci-Fi,4,39,Female,2024-12-29
+83,1033,Inception,Sci-Fi,2,45,Male,2024-12-29
+84,1073,The Dark Knight,Romance,5,26,Male,2024-07-31
+85,1061,Titanic,Romance,3,43,Male,2024-08-03
+86,1099,Interstellar,Drama,1,26,Male,2024-08-13
+87,1013,Inception,Sci-Fi,1,32,Female,2024-05-10
+88,1094,Avatar,Sci-Fi,1,27,Female,2024-03-16
+89,1047,Inception,Comedy,2,41,Male,2024-10-12
+90,1014,Avatar,Romance,4,59,Female,2024-10-03
+91,1071,The Dark Knight,Sci-Fi,5,25,Male,2024-06-04
+92,1077,Titanic,Drama,3,41,Male,2024-09-04
+93,1086,Inception,Drama,3,33,Male,2024-08-05
+94,1061,Interstellar,Sci-Fi,2,43,Male,2024-07-08
+95,1039,The Dark Knight,Romance,1,44,Female,2024-06-11
+96,1084,Inception,Drama,2,54,Male,2024-06-28
+97,1079,Interstellar,Comedy,4,21,Male,2024-02-03
+98,1081,Inception,Drama,4,41,Female,2024-02-10
+99,1052,Avatar,Action,5,36,Male,2024-11-02
+100,1023,Inception,Action,5,53,Male,2024-12-03
+101,1025,Inception,Romance,4,56,Male,2024-11-09
+102,1088,Inception,Sci-Fi,4,27,Female,2024-03-15
+103,1059,The Dark Knight,Romance,4,42,Male,2024-10-05
+104,1040,Inception,Romance,2,35,Female,2024-06-24
+105,1028,Interstellar,Romance,4,36,Male,2024-05-29
+106,1014,Avatar,Romance,3,53,Male,2024-09-29
+107,1044,Avatar,Comedy,1,27,Female,2024-11-20
+108,1064,Inception,Comedy,4,50,Male,2024-04-17
+109,1088,The Dark Knight,Drama,1,22,Male,2024-05-18
+110,1070,The Dark Knight,Action,2,64,Female,2024-12-15
+111,1008,Interstellar,Romance,1,52,Female,2024-09-27
+112,1087,Inception,Drama,2,61,Female,2024-12-12
+113,1000,Avatar,Action,3,51,Female,2024-10-15
+114,1007,The Dark Knight,Sci-Fi,2,50,Female,2024-07-30
+115,1087,Inception,Comedy,2,38,Male,2024-09-28
+116,1062,The Dark Knight,Action,5,34,Female,2024-03-06
+117,1010,The Dark Knight,Sci-Fi,4,39,Male,2024-09-04
+118,1080,Avatar,Action,4,54,Male,2024-06-04
+119,1007,Titanic,Comedy,3,32,Male,2024-02-16
+120,1034,Interstellar,Comedy,3,52,Female,2024-07-19
+121,1034,Interstellar,Drama,4,45,Female,2024-05-27
+122,1032,Avatar,Romance,5,24,Male,2024-05-03
+123,1004,The Dark Knight,Action,4,49,Female,2024-01-01
+124,1040,Inception,Action,5,28,Female,2024-09-03
+125,1027,The Dark Knight,Sci-Fi,3,27,Female,2024-12-08
+126,1006,Avatar,Comedy,1,26,Female,2024-05-07
+127,1072,Interstellar,Action,3,31,Male,2024-07-09
+128,1071,The Dark Knight,Comedy,3,30,Male,2024-03-07
+129,1011,Interstellar,Action,2,42,Female,2024-01-04
+130,1033,Inception,Drama,2,19,Male,2024-10-29
+131,1032,Interstellar,Romance,2,52,Female,2024-10-20
+132,1047,Interstellar,Action,2,24,Female,2024-05-22
+133,1022,Titanic,Comedy,5,38,Male,2024-07-09
+134,1061,Titanic,Drama,4,35,Male,2024-01-21
+135,1087,Titanic,Action,1,20,Male,2024-08-14
+136,1036,Interstellar,Sci-Fi,3,59,Female,2024-11-08
+137,1098,Avatar,Romance,5,56,Male,2024-04-26
+138,1043,Interstellar,Action,1,58,Female,2024-10-28
+139,1085,Avatar,Drama,5,28,Male,2024-05-21
+140,1090,Avatar,Sci-Fi,5,56,Male,2024-02-08
+141,1034,Titanic,Drama,3,41,Female,2024-12-20
+142,1064,The Dark Knight,Drama,4,63,Female,2024-09-08
+143,1098,Inception,Sci-Fi,2,36,Female,2024-11-28
+144,1046,Titanic,Drama,4,21,Female,2024-07-25
+145,1077,Titanic,Sci-Fi,3,43,Female,2024-07-28
+146,1002,The Dark Knight,Action,3,55,Female,2024-04-24
+147,1000,Inception,Sci-Fi,3,59,Female,2024-08-12
+148,1004,Interstellar,Sci-Fi,1,49,Female,2024-05-13
+149,1089,Interstellar,Romance,4,56,Male,2024-09-07
+150,1013,Titanic,Sci-Fi,4,62,Female,2024-08-06
+151,1026,Inception,Sci-Fi,5,63,Female,2024-03-31
+152,1008,Titanic,Action,5,53,Male,2024-12-19
+153,1078,Avatar,Romance,5,57,Female,2024-02-15
+154,1014,Titanic,Comedy,3,54,Male,2024-02-07
+155,1089,Titanic,Action,4,50,Male,2024-05-21
+156,1041,Interstellar,Action,3,53,Female,2024-04-09
+157,1076,Interstellar,Comedy,1,20,Male,2024-11-23
+158,1050,Interstellar,Sci-Fi,5,26,Female,2024-07-08
+159,1062,Avatar,Drama,3,25,Male,2024-02-04
+160,1095,Interstellar,Romance,3,50,Male,2024-05-26
+161,1051,Inception,Drama,1,23,Male,2024-01-30
+162,1095,The Dark Knight,Comedy,2,58,Female,2024-11-29
+163,1003,Inception,Action,4,56,Female,2024-03-24
+164,1093,Inception,Action,2,21,Male,2024-10-07
+165,1022,Interstellar,Romance,5,30,Male,2024-12-09
+166,1014,The Dark Knight,Action,3,19,Female,2024-09-26
+167,1042,The Dark Knight,Action,1,22,Female,2024-06-02
+168,1028,The Dark Knight,Romance,1,61,Male,2024-04-11
+169,1035,Avatar,Romance,4,44,Male,2024-08-02
+170,1012,Interstellar,Comedy,2,49,Female,2024-05-29
+171,1031,The Dark Knight,Action,4,38,Female,2024-03-23
+172,1070,Avatar,Action,3,25,Female,2024-04-19
+173,1058,Titanic,Comedy,4,55,Female,2024-10-01
+174,1085,Titanic,Sci-Fi,1,25,Female,2024-07-19
+175,1027,Avatar,Sci-Fi,1,20,Male,2024-10-10
+176,1065,Avatar,Sci-Fi,5,61,Female,2024-06-21
+177,1041,Interstellar,Comedy,5,20,Male,2024-11-22
+178,1044,Interstellar,Action,3,39,Female,2024-07-24
+179,1061,Titanic,Comedy,2,23,Male,2024-03-03
+180,1056,The Dark Knight,Comedy,4,19,Female,2024-03-13
+181,1005,Titanic,Sci-Fi,3,40,Female,2024-09-07
+182,1027,The Dark Knight,Drama,5,61,Male,2024-05-03
+183,1027,The Dark Knight,Action,4,19,Male,2024-04-30
+184,1043,Interstellar,Sci-Fi,5,55,Female,2024-10-01
+185,1083,Inception,Drama,4,34,Female,2024-04-29
+186,1029,Inception,Drama,2,52,Female,2024-11-12
+187,1061,Avatar,Romance,3,51,Female,2024-06-12
+188,1074,Interstellar,Action,4,40,Female,2024-10-12
+189,1091,The Dark Knight,Drama,1,47,Male,2024-09-21
+190,1088,Inception,Sci-Fi,1,25,Male,2024-11-15
+191,1061,The Dark Knight,Romance,4,39,Female,2024-06-09
+192,1096,Inception,Action,4,61,Male,2024-11-03
+193,1000,Inception,Comedy,4,53,Male,2024-03-29
+194,1026,Inception,Sci-Fi,1,22,Male,2024-05-21
+195,1061,Interstellar,Drama,1,30,Female,2024-07-21
+196,1076,Titanic,Drama,4,46,Male,2024-11-04
+197,1002,The Dark Knight,Sci-Fi,5,48,Female,2024-08-14
+198,1069,Interstellar,Drama,5,64,Male,2024-11-29
+199,1071,Interstellar,Romance,2,33,Female,2024-08-09
+200,1026,Interstellar,Action,3,59,Male,2024-02-10
+201,1008,Interstellar,Romance,5,47,Female,2024-07-14
+202,1061,Interstellar,Drama,1,33,Female,2024-03-08
+203,1036,Avatar,Comedy,5,29,Male,2024-09-20
+204,1096,The Dark Knight,Action,2,34,Female,2024-01-02
+205,1050,Interstellar,Action,2,33,Female,2024-12-26
+206,1043,The Dark Knight,Sci-Fi,3,29,Female,2024-05-04
+207,1023,Avatar,Sci-Fi,5,25,Female,2024-04-19
+208,1078,Avatar,Comedy,1,37,Female,2024-03-26
+209,1058,The Dark Knight,Action,1,20,Female,2024-04-29
+210,1031,Inception,Comedy,4,33,Female,2024-05-06
+211,1095,Titanic,Sci-Fi,1,47,Female,2024-09-11
+212,1087,Inception,Sci-Fi,3,62,Male,2024-07-01
+213,1051,Inception,Action,3,40,Male,2024-01-16
+214,1061,Inception,Romance,1,45,Female,2024-03-02
+215,1057,Interstellar,Drama,1,57,Female,2024-06-06
+216,1051,Avatar,Sci-Fi,4,22,Male,2024-09-24
+217,1011,Inception,Sci-Fi,1,37,Male,2024-02-04
+218,1038,Avatar,Romance,4,57,Male,2024-09-23
+219,1001,The Dark Knight,Romance,4,61,Female,2024-03-04
+220,1002,Titanic,Comedy,1,18,Male,2024-02-19
+221,1055,The Dark Knight,Comedy,2,47,Female,2024-09-11
+222,1080,The Dark Knight,Drama,2,38,Female,2024-05-28
+223,1058,Interstellar,Drama,4,37,Male,2024-11-20
+224,1001,Titanic,Action,1,23,Female,2024-10-30
+225,1001,The Dark Knight,Comedy,2,39,Female,2024-10-02
+226,1091,The Dark Knight,Sci-Fi,1,35,Female,2024-12-22
+227,1053,Titanic,Comedy,1,25,Female,2024-06-20
+228,1086,Titanic,Sci-Fi,1,56,Male,2024-07-19
+229,1095,The Dark Knight,Romance,5,49,Male,2024-11-19
+230,1096,Titanic,Comedy,1,50,Female,2024-02-04
+231,1000,The Dark Knight,Romance,5,33,Female,2024-08-03
+232,1018,The Dark Knight,Drama,4,29,Male,2024-03-05
+233,1001,Interstellar,Drama,2,55,Female,2024-01-08
+234,1052,Inception,Action,2,51,Male,2024-10-27
+235,1043,The Dark Knight,Comedy,2,31,Female,2024-12-08
+236,1089,Avatar,Romance,2,53,Female,2024-11-27
+237,1031,Inception,Sci-Fi,2,50,Male,2024-03-16
+238,1069,Inception,Drama,2,40,Male,2024-06-22
+239,1031,Inception,Drama,2,62,Male,2024-02-16
+240,1067,Interstellar,Sci-Fi,4,19,Male,2024-01-15
+241,1054,The Dark Knight,Romance,1,58,Female,2024-12-26
+242,1074,Interstellar,Romance,3,38,Male,2024-05-26
+243,1055,The Dark Knight,Comedy,5,19,Female,2024-01-26
+244,1016,Interstellar,Comedy,3,44,Male,2024-11-03
+245,1037,Interstellar,Action,3,26,Male,2024-04-02
+246,1023,Avatar,Drama,1,18,Female,2024-08-19
+247,1068,Interstellar,Comedy,1,28,Male,2024-01-21
+248,1097,Titanic,Romance,1,20,Male,2024-11-02
+249,1069,Avatar,Sci-Fi,2,40,Male,2024-02-07
+250,1085,Interstellar,Romance,4,43,Male,2024-10-02
+251,1010,Inception,Drama,2,21,Female,2024-06-05
+252,1015,Titanic,Romance,4,35,Female,2024-06-27
+253,1096,Titanic,Action,4,23,Male,2024-05-11
+254,1072,Titanic,Drama,3,52,Male,2024-11-06
+255,1058,Avatar,Sci-Fi,3,39,Male,2024-12-13
+256,1069,Interstellar,Action,4,60,Female,2024-01-28
+257,1079,Interstellar,Drama,4,32,Female,2024-09-16
+258,1092,Inception,Sci-Fi,2,39,Female,2024-03-16
+259,1002,Inception,Action,2,54,Female,2024-03-07
+260,1019,Titanic,Action,3,59,Male,2024-12-07
+261,1058,Inception,Drama,1,29,Male,2024-07-12
+262,1035,Avatar,Comedy,4,64,Male,2024-06-10
+263,1018,Interstellar,Action,2,59,Female,2024-12-12
+264,1089,Titanic,Action,3,55,Male,2024-12-26
+265,1066,Inception,Sci-Fi,2,35,Female,2024-09-13
+266,1018,Avatar,Romance,4,62,Female,2024-03-12
+267,1019,Avatar,Drama,4,52,Male,2024-03-27
+268,1095,Inception,Drama,5,47,Male,2024-09-18
+269,1070,Interstellar,Comedy,1,41,Male,2024-08-01
+270,1051,Inception,Comedy,5,59,Female,2024-06-01
+271,1032,Titanic,Drama,3,47,Female,2024-07-28
+272,1039,Inception,Comedy,2,31,Male,2024-03-01
+273,1038,Avatar,Sci-Fi,3,23,Male,2024-09-24
+274,1081,Inception,Drama,4,20,Female,2024-09-18
+275,1000,Interstellar,Comedy,5,33,Male,2024-08-05
+276,1010,The Dark Knight,Drama,5,24,Female,2024-10-09
+277,1091,Inception,Romance,5,31,Female,2024-05-15
+278,1056,Interstellar,Action,3,26,Male,2024-12-27
+279,1088,Interstellar,Drama,4,32,Male,2024-04-02
+280,1049,Avatar,Action,2,38,Male,2024-04-18
+281,1022,Interstellar,Comedy,2,52,Male,2024-08-28
+282,1030,Interstellar,Action,3,19,Female,2024-12-20
+283,1093,Interstellar,Drama,5,44,Female,2024-05-21
+284,1041,Interstellar,Romance,1,19,Female,2024-10-17
+285,1098,Titanic,Comedy,3,52,Male,2024-08-24
+286,1006,Titanic,Drama,3,35,Female,2024-12-05
+287,1015,Avatar,Comedy,4,31,Male,2024-11-07
+288,1089,Inception,Sci-Fi,2,37,Male,2024-06-25
+289,1059,Interstellar,Action,3,35,Male,2024-05-20
+290,1001,Inception,Sci-Fi,3,27,Male,2024-07-07
+291,1000,Inception,Drama,5,42,Male,2024-02-18
+292,1047,Avatar,Romance,5,19,Male,2024-10-28
+293,1011,Interstellar,Comedy,1,42,Female,2024-07-08
+294,1068,Interstellar,Action,4,50,Male,2024-05-15
+295,1036,The Dark Knight,Comedy,1,53,Female,2024-02-12
+296,1031,Inception,Drama,5,48,Female,2024-12-18
+297,1008,Inception,Comedy,2,31,Male,2024-03-30
+298,1098,Titanic,Action,5,18,Male,2024-10-21
+299,1018,The Dark Knight,Drama,4,63,Male,2024-12-06
+300,1047,Titanic,Comedy,5,33,Female,2024-09-01
+301,1079,Titanic,Romance,4,63,Male,2024-07-10
+302,1002,Titanic,Drama,4,20,Female,2024-11-13
+303,1019,Avatar,Drama,4,52,Male,2024-04-15
+304,1023,Avatar,Romance,4,58,Male,2024-12-28
+305,1053,Titanic,Sci-Fi,4,23,Female,2024-11-05
+306,1032,The Dark Knight,Action,2,42,Female,2024-08-20
+307,1023,Inception,Sci-Fi,1,30,Male,2024-09-21
+308,1074,The Dark Knight,Comedy,3,51,Female,2024-12-09
+309,1071,Interstellar,Romance,1,25,Female,2024-02-06
+310,1035,Avatar,Sci-Fi,4,38,Female,2024-10-31
+311,1037,Inception,Drama,2,51,Female,2024-02-10
+312,1083,Inception,Comedy,5,21,Female,2024-01-17
+313,1098,Interstellar,Comedy,2,42,Male,2024-12-09
+314,1088,Interstellar,Sci-Fi,4,32,Male,2024-10-03
+315,1098,Titanic,Sci-Fi,2,21,Female,2024-11-02
+316,1024,Avatar,Romance,2,62,Male,2024-02-28
+317,1092,Avatar,Action,4,29,Male,2024-07-01
+318,1017,The Dark Knight,Sci-Fi,2,49,Female,2024-02-10
+319,1081,Titanic,Sci-Fi,3,49,Male,2024-02-08
+320,1065,Titanic,Drama,3,45,Female,2024-07-10
+321,1053,Titanic,Comedy,2,30,Female,2024-09-23
+322,1034,Titanic,Action,5,48,Male,2024-05-26
+323,1079,Avatar,Drama,4,31,Female,2024-11-28
+324,1060,Avatar,Romance,3,37,Female,2024-05-06
+325,1040,Titanic,Romance,5,35,Female,2024-02-15
+326,1099,The Dark Knight,Sci-Fi,2,46,Female,2024-02-14
+327,1032,Inception,Sci-Fi,5,23,Female,2024-01-01
+328,1067,Inception,Romance,1,49,Male,2024-06-16
+329,1032,The Dark Knight,Sci-Fi,3,46,Male,2024-04-17
+330,1013,Titanic,Action,2,60,Female,2024-01-19
+331,1020,Avatar,Sci-Fi,4,19,Female,2024-11-27
+332,1047,Inception,Comedy,2,40,Male,2024-03-12
+333,1019,Interstellar,Sci-Fi,4,36,Female,2024-04-18
+334,1007,Interstellar,Drama,2,48,Male,2024-09-24
+335,1006,The Dark Knight,Action,5,22,Female,2024-08-27
+336,1066,Titanic,Drama,5,36,Female,2024-10-27
+337,1016,Inception,Drama,5,51,Female,2024-03-30
+338,1032,Titanic,Comedy,1,27,Female,2024-04-12
+339,1047,Inception,Action,4,42,Female,2024-09-06
+340,1075,The Dark Knight,Action,5,19,Female,2024-01-08
+341,1058,The Dark Knight,Action,1,28,Female,2024-06-01
+342,1085,Interstellar,Action,4,48,Male,2024-12-12
+343,1021,Titanic,Action,2,32,Male,2024-06-22
+344,1029,Interstellar,Comedy,1,26,Male,2024-12-08
+345,1037,Titanic,Sci-Fi,3,40,Female,2024-06-06
+346,1050,Interstellar,Drama,1,36,Female,2024-08-02
+347,1053,Avatar,Action,1,26,Female,2024-06-25
+348,1007,Avatar,Sci-Fi,4,52,Female,2024-06-23
+349,1026,Avatar,Sci-Fi,2,38,Female,2024-12-05
+350,1026,Avatar,Drama,3,26,Female,2024-12-03
+351,1097,Inception,Comedy,5,45,Female,2024-05-25
+352,1020,Avatar,Romance,5,63,Male,2024-11-19
+353,1029,The Dark Knight,Romance,1,24,Female,2024-06-09
+354,1096,The Dark Knight,Sci-Fi,4,33,Male,2024-05-06
+355,1027,Inception,Drama,4,33,Male,2024-03-22
+356,1063,Avatar,Romance,5,50,Female,2024-05-26
+357,1096,Avatar,Sci-Fi,3,21,Female,2024-08-26
+358,1068,Avatar,Comedy,2,21,Male,2024-03-24
+359,1060,Interstellar,Romance,3,56,Male,2024-04-22
+360,1047,Titanic,Sci-Fi,2,57,Female,2024-08-12
+361,1018,Interstellar,Sci-Fi,5,34,Female,2024-11-27
+362,1003,Titanic,Action,2,54,Male,2024-08-30
+363,1034,Avatar,Comedy,4,56,Female,2024-05-22
+364,1063,Avatar,Action,1,46,Female,2024-02-10
+365,1048,Interstellar,Drama,1,53,Female,2024-09-14
+366,1016,Interstellar,Action,5,55,Male,2024-10-11
+367,1043,Titanic,Action,4,56,Male,2024-04-14
+368,1091,The Dark Knight,Romance,3,54,Male,2024-07-20
+369,1029,Titanic,Sci-Fi,4,52,Female,2024-11-02
+370,1092,Interstellar,Comedy,1,24,Female,2024-11-26
+371,1045,Interstellar,Action,1,44,Male,2024-09-22
+372,1005,Inception,Comedy,4,45,Male,2024-07-28
+373,1098,Interstellar,Action,4,39,Male,2024-02-20
+374,1036,Inception,Drama,1,31,Female,2024-04-27
+375,1023,The Dark Knight,Action,3,24,Male,2024-07-19
+376,1092,Titanic,Romance,5,54,Male,2024-02-08
+377,1045,Titanic,Sci-Fi,5,39,Female,2024-01-28
+378,1052,Inception,Drama,4,22,Female,2024-09-15
+379,1094,Titanic,Action,5,19,Female,2024-03-24
+380,1098,Interstellar,Comedy,1,44,Male,2024-06-03
+381,1059,Avatar,Drama,1,38,Female,2024-04-26
+382,1096,Inception,Drama,4,55,Female,2024-01-02
+383,1062,Titanic,Action,4,32,Male,2024-04-02
+384,1084,Inception,Drama,4,38,Female,2024-06-14
+385,1031,Inception,Comedy,3,27,Male,2024-12-15
+386,1086,Avatar,Drama,5,40,Male,2024-10-22
+387,1032,Interstellar,Comedy,4,56,Female,2024-09-14
+388,1066,Inception,Action,2,22,Female,2024-03-21
+389,1017,Titanic,Sci-Fi,2,18,Female,2024-09-24
+390,1024,The Dark Knight,Drama,1,30,Female,2024-08-22
+391,1094,Inception,Sci-Fi,5,38,Female,2024-11-16
+392,1053,Inception,Comedy,4,43,Female,2024-11-06
+393,1057,Avatar,Drama,2,62,Male,2024-10-27
+394,1066,Interstellar,Romance,5,38,Male,2024-12-22
+395,1045,The Dark Knight,Sci-Fi,1,35,Female,2024-07-31
+396,1023,Titanic,Drama,3,54,Male,2024-03-02
+397,1031,The Dark Knight,Sci-Fi,5,62,Female,2024-02-18
+398,1046,Titanic,Drama,5,49,Male,2024-05-06
+399,1085,Interstellar,Action,3,53,Male,2024-08-10
+400,1022,Titanic,Sci-Fi,5,34,Male,2024-10-05
+401,1065,Avatar,Romance,1,52,Female,2024-10-20
+402,1026,Avatar,Romance,1,28,Male,2024-10-10
+403,1001,Avatar,Comedy,3,38,Female,2024-10-03
+404,1089,Avatar,Drama,4,43,Male,2024-04-16
+405,1016,The Dark Knight,Sci-Fi,2,21,Male,2024-05-25
+406,1032,Interstellar,Comedy,4,51,Male,2024-04-08
+407,1008,Titanic,Sci-Fi,5,35,Male,2024-03-13
+408,1042,Titanic,Drama,2,57,Male,2024-05-01
+409,1047,Avatar,Romance,3,52,Female,2024-01-30
+410,1038,Avatar,Action,3,58,Female,2024-07-06
+411,1092,Inception,Romance,2,46,Male,2024-12-29
+412,1041,Interstellar,Comedy,1,46,Male,2024-12-19
+413,1025,The Dark Knight,Action,2,55,Male,2024-10-14
+414,1098,Titanic,Comedy,5,59,Male,2024-07-13
+415,1049,Inception,Drama,1,38,Female,2024-06-04
+416,1024,Inception,Action,3,59,Male,2024-06-20
+417,1023,Titanic,Comedy,2,30,Female,2024-11-30
+418,1012,The Dark Knight,Drama,4,58,Male,2024-02-10
+419,1059,Inception,Romance,4,34,Female,2024-03-03
+420,1006,Inception,Drama,5,26,Male,2024-01-23
+421,1056,Interstellar,Sci-Fi,4,58,Male,2024-12-25
+422,1035,The Dark Knight,Drama,2,18,Female,2024-03-15
+423,1044,Inception,Drama,2,19,Male,2024-02-17
+424,1019,The Dark Knight,Sci-Fi,4,46,Male,2024-06-08
+425,1064,Titanic,Comedy,2,50,Male,2024-11-08
+426,1007,Avatar,Comedy,5,27,Female,2024-04-27
+427,1015,Inception,Drama,1,57,Male,2024-04-09
+428,1013,Interstellar,Sci-Fi,5,38,Male,2024-06-15
+429,1075,Titanic,Sci-Fi,5,45,Female,2024-10-16
+430,1086,The Dark Knight,Romance,2,28,Female,2024-06-04
+431,1014,Titanic,Comedy,1,51,Female,2024-01-07
+432,1091,Inception,Action,2,25,Male,2024-07-14
+433,1097,The Dark Knight,Comedy,3,39,Male,2024-02-25
+434,1065,Avatar,Comedy,2,25,Male,2024-11-16
+435,1031,Titanic,Romance,2,32,Female,2024-07-11
+436,1086,Inception,Action,2,34,Male,2024-02-16
+437,1062,Interstellar,Romance,1,40,Male,2024-05-27
+438,1085,The Dark Knight,Action,2,41,Female,2024-10-01
+439,1050,Titanic,Drama,1,62,Female,2024-06-05
+440,1024,Titanic,Action,4,36,Female,2024-07-20
+441,1057,Avatar,Romance,3,22,Female,2024-05-05
+442,1062,Avatar,Comedy,1,49,Female,2024-10-31
+443,1061,Interstellar,Action,4,61,Male,2024-10-20
+444,1021,Interstellar,Action,1,18,Female,2024-03-04
+445,1057,Inception,Sci-Fi,1,40,Male,2024-11-20
+446,1057,Inception,Comedy,3,54,Male,2024-06-24
+447,1085,Interstellar,Drama,5,25,Female,2024-04-25
+448,1048,Interstellar,Romance,5,30,Female,2024-07-22
+449,1051,The Dark Knight,Drama,1,25,Female,2024-11-16
+450,1041,Avatar,Comedy,2,40,Male,2024-01-31
+451,1069,Inception,Action,4,60,Female,2024-04-22
+452,1014,Avatar,Action,2,18,Female,2024-12-30
+453,1053,Avatar,Comedy,2,62,Female,2024-11-20
+454,1059,Interstellar,Action,1,41,Female,2024-12-09
+455,1096,The Dark Knight,Action,1,52,Female,2024-03-07
+456,1007,Titanic,Action,1,41,Male,2024-03-15
+457,1052,The Dark Knight,Romance,1,34,Male,2024-02-14
+458,1059,The Dark Knight,Romance,5,22,Male,2024-09-16
+459,1004,Avatar,Sci-Fi,1,37,Female,2024-06-02
+460,1067,The Dark Knight,Drama,5,38,Female,2024-06-03
+461,1005,Inception,Comedy,5,57,Female,2024-12-28
+462,1095,Avatar,Comedy,1,48,Male,2024-08-21
+463,1093,Inception,Comedy,3,63,Female,2024-02-20
+464,1046,Titanic,Sci-Fi,4,53,Female,2024-11-01
+465,1098,Avatar,Romance,2,28,Female,2024-09-18
+466,1054,Titanic,Sci-Fi,5,32,Male,2024-11-10
+467,1039,Avatar,Comedy,4,36,Female,2024-05-04
+468,1051,Interstellar,Drama,3,24,Male,2024-09-01
+469,1015,The Dark Knight,Action,2,45,Female,2024-01-30
+470,1012,Interstellar,Romance,2,60,Male,2024-05-01
+471,1029,Titanic,Romance,5,22,Male,2024-05-04
+472,1018,The Dark Knight,Sci-Fi,1,22,Male,2024-02-06
+473,1016,Avatar,Romance,3,47,Female,2024-06-18
+474,1062,The Dark Knight,Comedy,5,49,Female,2024-05-03
+475,1018,Inception,Comedy,3,25,Male,2024-12-22
+476,1091,The Dark Knight,Sci-Fi,1,27,Male,2024-02-04
+477,1057,Inception,Comedy,1,55,Female,2024-03-27
+478,1054,The Dark Knight,Drama,5,64,Female,2024-05-13
+479,1089,Inception,Sci-Fi,1,49,Male,2024-07-14
+480,1089,Titanic,Drama,4,45,Female,2024-09-30
+481,1061,Interstellar,Action,2,34,Female,2024-07-19
+482,1022,Avatar,Drama,5,48,Female,2024-10-11
+483,1008,The Dark Knight,Action,3,25,Female,2024-03-17
+484,1011,Interstellar,Action,4,57,Male,2024-02-28
+485,1000,Avatar,Drama,5,42,Female,2024-05-05
+486,1057,Avatar,Sci-Fi,1,26,Female,2024-04-18
+487,1000,Inception,Comedy,1,19,Male,2024-08-11
+488,1033,Titanic,Comedy,1,32,Male,2024-10-04
+489,1095,Titanic,Action,1,20,Female,2024-03-08
+490,1047,Interstellar,Action,3,53,Female,2024-03-09
+491,1088,Titanic,Sci-Fi,4,21,Female,2024-06-13
+492,1000,The Dark Knight,Romance,2,31,Female,2024-10-31
+493,1015,Titanic,Drama,3,58,Male,2024-06-10
+494,1060,Interstellar,Action,3,58,Male,2024-12-30
+495,1063,Titanic,Comedy,2,42,Male,2024-12-07
+496,1062,The Dark Knight,Sci-Fi,2,27,Female,2024-11-04
+497,1068,Inception,Drama,1,38,Female,2024-12-08
+498,1021,Interstellar,Sci-Fi,3,53,Female,2024-02-11
+499,1092,Inception,Drama,5,29,Female,2024-12-19
+500,1066,Inception,Drama,2,44,Male,2024-04-18
